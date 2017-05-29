@@ -1,0 +1,3 @@
+. 	Alasan membuat tagging interface ?
+..	Agar suatu class dapat mengimplement lebih dari satu interface,
+	sedangkan kalo extends pada class, hanya bisa melakukan nya sekali pada suatu class java.
